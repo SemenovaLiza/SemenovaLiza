@@ -22,11 +22,6 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-2C8EBB?logo=telegram&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-lightgrey)
 
-
-- 🔭  I’m currently studying React and JavaScript, while also exploring C# and continuing to develop my Python skills.
-- 🌱 At the moment, I’m focusing on collaborations and working on a web app for Shader creation using React.
-- 👯 I’m open to new collaboration opportunities, especially in full-stack and AI development!
-- ⚡  I graduated from a Python Developer 2 years program and currently expanding my knowledge by studying AI Software Engineering at Centennial College. 
 - 📫 How to reach me:
 - [LinkdIn](https://www.linkedin.com/in/elizaveta-semenova-483068325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Email: semenovalizaca@gmail.com
