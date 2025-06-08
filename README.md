@@ -1,4 +1,4 @@
-## Full-stack developer
+## Python developer / Machine Learning Engineer
 ![Python](https://img.shields.io/badge/Python-blue)
 ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
